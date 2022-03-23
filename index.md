@@ -7,6 +7,9 @@ My name is **Kim Blasco** and this is my very first website. Here you will find 
 My name's Kim Blasco and I'm a student who likes investing himself into technology these days given the pandemic at hand.
 I love listening to music and my taste varies from time to time, I also like talking to others and reading books in my spare time.
 
+### A Picture of Me
+![eSalvar Pic](https://user-images.githubusercontent.com/99862879/159719276-55f07884-32b3-4ec3-8048-ef04c57cff8e.jpg)
+
 
 
 **Some of my favorite music videos are:**
@@ -20,6 +23,7 @@ I love listening to music and my taste varies from time to time, I also like tal
   
   And for when I want motivation to do something:
 ### 4. [Mick Gordon - The Only Thing They Fear is You](https://www.youtube.com/watch?v=fmUDr2DO2is&ab_channel=the_kovic)
+
 
 
 
