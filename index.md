@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my Very First Website!
 
-You can use the [editor on GitHub](https://github.com/KimBlasco/KimBlasco/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Kim Blasco and this is my very first website. Here you will find an intro about myself and my music taste.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
