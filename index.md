@@ -1,6 +1,6 @@
 ## Welcome to my Very First Website!
 
-My name is Kim Blasco and this is my very first website. Here you will find an intro about myself and what I like.
+My name is **Kim Blasco** and this is my very first website. Here you will find an intro about myself and what I like.
 
 ### Introduction
 
@@ -9,7 +9,7 @@ I love listening to music and my taste varies from time to time, I also like tal
 
 
 
-Some of my favorite music videos are:
+**Some of my favorite music videos are:**
 ### 1. [Daft Punk - Harder, Better, Faster, Stronger](https://www.youtube.com/watch?v=yydNF8tuVmU&ab_channel=DaftPunk)
 
 ### 2. [Caravan Palace - Rock It For Me](https://www.youtube.com/watch?v=fBGSJ3sbivI&list=RDyydNF8tuVmU&index=10&ab_channel=CaravanPalace)
